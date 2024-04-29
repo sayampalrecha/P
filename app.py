@@ -1,8 +1,8 @@
 import streamlit as st
-import pickle
-import sklearn
-import pandas as pd
-import numpy as np
+# import pickle
+# import sklearn
+# import pandas as pd
+# import numpy as np
 
 st.title('Pune House Price Prediction App')
 st.write('Enter the following details:')
